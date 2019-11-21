@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/libcxx_helper/CMakeLists.txt",
+    "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/build/cmake/platforms.cmake",
+    "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv_jni_shared-Release-x86_64": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommand": "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64\" opencv_jni_shared",
+      "abi": "x86_64",
+      "output": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64/libopencv_jni_shared.a"
+    }
+  }
+}

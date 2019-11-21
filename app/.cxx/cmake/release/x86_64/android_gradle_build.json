@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android28 --gcc-toolchain=/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS -I/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=gnu++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/build/cmake/platforms.cmake",
+    "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+    "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86_64": {
+      "buildCommand": "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/.cxx/cmake/release/x86_64\" native-lib",
+      "buildType": "release",
+      "toolchain": "3773021997",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "3773021997": {
+      "cppCompilerExecutable": "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

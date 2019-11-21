@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c1c9ba2519551aa3357a6b2a981860fe/databinding-adapters-3.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/b7ff01f361470de1d73f2ba2b9bd8f27/databinding-runtime-3.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.otaliastudios:zoomlayout:1.7.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/fa704d85987d2f7d288e76ffe084ddc2/zoomlayout-1.7.0/AndroidManifest.xml:2:1-11:12
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/853e86070d3be1044e072def7b653d24/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/1a48618d6c5819b93f43ddd9a04c22dd/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c4b4b829cc770abdd306eef91b3e77f9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/da062cd08ea43da3bfbaf25ca11958df/anko-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [:opencv] /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/9155afee0e20e3fc0d181845a63d956d/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/150b21060805b8d7ec0b9218c18b8fec/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/196f46af8c6b2d0c413f83432af8b852/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/47c1b3ba75eef8f6e1d5f8d90e80f025/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6338a76fd808472776836da60baefb2a/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/d4d6f1b618f6740b3852fbc0a4f6708f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/d81313297acd4b62a12e1c4be346ea86/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/967fab3a1127d2363e5cc8e33e3e2af3/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/9eeb03172080be4be809eb3b789602a2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2f9729e605b8264ea496dc9d63a71ae5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/b403c837ac7d55e559d7b654aa580176/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2f87e561b9a6cd597921d8f70638d321/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2fd40eeb356d6c726aa77b69467711ad/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/20eceb4855668000af68723b2e1a5140/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/5aa6e1ee8a4aa87ed09e4136bb1359d6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/348f6e881b6dace586f7b40a9b28f9dd/jetified-commons-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6ad38dfac4e106a4ff4e5e048c9d7854/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/004fb91108e1b1927119709e2ff43030/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/3a3ed459510bf208b94d56b861c80196/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/ab93a8dbadb16e1d4464b7fe897665b9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6fec6f5bd41f9541306bc06fc2cfae1b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/36046ff8fe6f6deaa96866bb67f58a2c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/3adfdbbdc85560396be263737753f758/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/98e10903ebeb7b4fad0c38ed0b5a9f97/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/e05a230acf535e3dec39f0f39ed5f0ca/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:9:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c4b4b829cc770abdd306eef91b3e77f9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c4b4b829cc770abdd306eef91b3e77f9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/da062cd08ea43da3bfbaf25ca11958df/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/da062cd08ea43da3bfbaf25ca11958df/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/5aa6e1ee8a4aa87ed09e4136bb1359d6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/5aa6e1ee8a4aa87ed09e4136bb1359d6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.opencvkotlin.MainActivity
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c1c9ba2519551aa3357a6b2a981860fe/databinding-adapters-3.5.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c1c9ba2519551aa3357a6b2a981860fe/databinding-adapters-3.5.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/b7ff01f361470de1d73f2ba2b9bd8f27/databinding-runtime-3.5.2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/b7ff01f361470de1d73f2ba2b9bd8f27/databinding-runtime-3.5.2/AndroidManifest.xml:22:5-44
+MERGED from [com.otaliastudios:zoomlayout:1.7.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/fa704d85987d2f7d288e76ffe084ddc2/zoomlayout-1.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.otaliastudios:zoomlayout:1.7.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/fa704d85987d2f7d288e76ffe084ddc2/zoomlayout-1.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/853e86070d3be1044e072def7b653d24/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/853e86070d3be1044e072def7b653d24/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/1a48618d6c5819b93f43ddd9a04c22dd/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/1a48618d6c5819b93f43ddd9a04c22dd/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c4b4b829cc770abdd306eef91b3e77f9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/c4b4b829cc770abdd306eef91b3e77f9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/da062cd08ea43da3bfbaf25ca11958df/anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/da062cd08ea43da3bfbaf25ca11958df/anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/9155afee0e20e3fc0d181845a63d956d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/9155afee0e20e3fc0d181845a63d956d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/150b21060805b8d7ec0b9218c18b8fec/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/150b21060805b8d7ec0b9218c18b8fec/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/196f46af8c6b2d0c413f83432af8b852/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/196f46af8c6b2d0c413f83432af8b852/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/47c1b3ba75eef8f6e1d5f8d90e80f025/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/47c1b3ba75eef8f6e1d5f8d90e80f025/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6338a76fd808472776836da60baefb2a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6338a76fd808472776836da60baefb2a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/d4d6f1b618f6740b3852fbc0a4f6708f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/d4d6f1b618f6740b3852fbc0a4f6708f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/d81313297acd4b62a12e1c4be346ea86/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/d81313297acd4b62a12e1c4be346ea86/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/967fab3a1127d2363e5cc8e33e3e2af3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/967fab3a1127d2363e5cc8e33e3e2af3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/9eeb03172080be4be809eb3b789602a2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/9eeb03172080be4be809eb3b789602a2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2f9729e605b8264ea496dc9d63a71ae5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2f9729e605b8264ea496dc9d63a71ae5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/b403c837ac7d55e559d7b654aa580176/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/b403c837ac7d55e559d7b654aa580176/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2f87e561b9a6cd597921d8f70638d321/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2f87e561b9a6cd597921d8f70638d321/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2fd40eeb356d6c726aa77b69467711ad/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/2fd40eeb356d6c726aa77b69467711ad/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/20eceb4855668000af68723b2e1a5140/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/20eceb4855668000af68723b2e1a5140/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/5aa6e1ee8a4aa87ed09e4136bb1359d6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/5aa6e1ee8a4aa87ed09e4136bb1359d6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/348f6e881b6dace586f7b40a9b28f9dd/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/348f6e881b6dace586f7b40a9b28f9dd/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6ad38dfac4e106a4ff4e5e048c9d7854/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6ad38dfac4e106a4ff4e5e048c9d7854/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/004fb91108e1b1927119709e2ff43030/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/004fb91108e1b1927119709e2ff43030/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/3a3ed459510bf208b94d56b861c80196/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/3a3ed459510bf208b94d56b861c80196/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/ab93a8dbadb16e1d4464b7fe897665b9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/ab93a8dbadb16e1d4464b7fe897665b9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6fec6f5bd41f9541306bc06fc2cfae1b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/6fec6f5bd41f9541306bc06fc2cfae1b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/36046ff8fe6f6deaa96866bb67f58a2c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/36046ff8fe6f6deaa96866bb67f58a2c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/3adfdbbdc85560396be263737753f758/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/3adfdbbdc85560396be263737753f758/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/98e10903ebeb7b4fad0c38ed0b5a9f97/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/98e10903ebeb7b4fad0c38ed0b5a9f97/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/e05a230acf535e3dec39f0f39ed5f0ca/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/e05a230acf535e3dec39f0f39ed5f0ca/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:10:9-14:67
+	android:screenOrientation
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:13:13-52
+	android:configChanges
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:12:13-144
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/komyeongjin/.gradle/caches/transforms-2/files-2.1/bfd792507519e55b6d1f268ba81f0d20/jetified-tedpermission-2.2.2/AndroidManifest.xml:11:13-75

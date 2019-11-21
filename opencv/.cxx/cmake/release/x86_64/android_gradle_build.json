@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/libcxx_helper/CMakeLists.txt",
+    "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/build/cmake/platforms.cmake",
+    "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv_jni_shared-Release-x86_64": {
+      "buildCommand": "/home/komyeongjin/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64\" opencv_jni_shared",
+      "buildType": "release",
+      "toolchain": "3773021997",
+      "abi": "x86_64",
+      "artifactName": "opencv_jni_shared",
+      "files": [
+        {
+          "src": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/libcxx_helper/dummy.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/.cxx/cmake/release/x86_64/libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {
+    "3773021997": {
+      "cppCompilerExecutable": "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

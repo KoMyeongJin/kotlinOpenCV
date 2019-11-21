@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/komyeongjin/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/opencv/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/komyeongjin/AndroidStudioProjects/OpenCVKotlin/app/src/main/cpp/native-lib.cpp"
+}
+]
